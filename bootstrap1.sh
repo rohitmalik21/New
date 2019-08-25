@@ -2,9 +2,9 @@
 yum install -y httpd php git
 
 cd /var/www/html
-wget https://github.com/rohitmalik21/ALB2019/car1.jpg
+wget https://github.com/rohitmalik21/New/ALB2019/car1.jpg
 mv car1.jpg car.jpg
-wget https://github.com/rohitmalik21/ALB2019/index.php
+wget https://github.com/rohitmalik21/New/ALB2019/index.php
 mv /var/www/html/htaccess /var/www/html/.htaccess
 
 mkdir /var/www/html/car
